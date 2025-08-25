@@ -36,8 +36,7 @@
 #### 🔗 Web3 & Other  
 <p>
   <img src="https://skillicons.dev/icons?i=solidity,ethereum,git,github,docker,figma" />
-  <img src="<img width="267" height="189" alt="image" src="https://github.com/user-attachments/assets/8f5d6c37-aded-4ad7-ac66-8dda62d6eb72" />
-" width="40" title="Motoko Language"/> Motoko
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmotoko-school.medium.com%2Fwelcome-to-motoko-school-78f2446e860d&psig=AOvVaw1xbccBXvQQcJX7EWJmDQUN&ust=1756187042310000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCLjRhu2gpY8DFQAAAAAdAAAAABAK"alt="Motoko" Motoko
 </p>
 
 ---
