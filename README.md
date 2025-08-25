@@ -1,4 +1,4 @@
-<!-- Banner -->
+<img width="287" height="213" alt="image" src="https://github.com/user-attachments/assets/5673914f-157e-4947-80de-2fbf41492686" /><!-- Banner -->
 <p align="center">
   <img src="https://i.ibb.co/zGxYJQq/coding-banner.gif" alt="coding banner" width="100%"/>
 </p>
@@ -36,7 +36,7 @@
 #### 🔗 Web3 & Other  
 <p>
   <img src="https://skillicons.dev/icons?i=solidity,ethereum,git,github,docker,figma" />
-  <img src="https://github.com/motoko-bootcamp.png" width="40" title="Motoko Language"/> Motoko
+  <img src="https://motoko-lsp-client.gallerycdn.vsassets.io/extensions/motoko-lsp-client/motoko-lsp-client/2.2.0/1583876431744/Microsoft.VisualStudio.Services.Icons.Default" width="40" title="Motoko Language"/> Motoko
 </p>
 
 ---
@@ -65,5 +65,6 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Web3+Enthusiast;Always+Learning;Building+Awesome+Projects+🚀" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Full-Stack+Developer%3B+Web3+Enthusiast%3B+Always+Learning%3B+Building+Awesome+Projects+%F0%9F%9A%80" alt="Typing Animation" />
 </p>
+
