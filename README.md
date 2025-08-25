@@ -1,41 +1,58 @@
 👋 Hi, I’m Abdullahi
-I’m a passionate and self-driven Full-Stack Web Developer with a strong foundation in HTML5, CSS3, JavaScript, React.js, Node.js, Express.js, and PostgreSQL. I love building responsive, modern, and user-friendly web applications that solve real-world problems.
+I’m a Full-Stack & Web3 Developer who is passionate about building modern, scalable, and impactful digital solutions.
+
+💡 Moto: “Code with purpose, build for the future.”
 
 💻 What I Do
-🌐 Frontend Development using React.js, Bootstrap, TailwindCSS, and animations (Framer Motion, Swiper.js, Three.js)
 
-🔙 Backend Development with Node.js, Express.js, and PostgreSQL
+🌐 Frontend Development with React.js, TailwindCSS, Bootstrap, Framer Motion, Swiper.js & Three.js
 
-🛠️ RESTful APIs, Authentication (JWT, OAuth), and MVC Architecture
+🔙 Backend Development with Node.js, Express.js, PostgreSQL & MongoDB
 
-📦 Building dynamic full-stack projects from scratch
+🛠️ APIs & Authentication – RESTful APIs, JWT, OAuth
 
-🎨 UI/UX Enhancements and interactive web experiences
+⚡ Web3 Development – Smart Contracts, Blockchain integration, and dApps (Decentralized Applications)
+
+🎨 UI/UX Enhancements with animations, responsive design & interactive experiences
 
 🧠 Currently Learning
-I'm always learning and improving my skills. Right now, I’m diving deeper into:
 
-Advanced React Patterns
+I’m continuously growing my skillset. Right now, I’m diving deeper into:
 
-Next.js
-
-MongoDB
+Advanced React & Next.js
 
 TypeScript
 
+Blockchain Development & Smart Contracts
+
+Cloud & Deployment (Vercel, Netlify, Docker, CI/CD)
+
 🌍 Goals
-My goal is to:
 
-Work remotely as a full-stack developer
+Work remotely as a Full-Stack/Web3 Developer 🌎
 
-Help businesses grow with efficient and scalable web applications
+Build products that create real value & empower businesses 🚀
 
-Build digital solutions that create real impact
+Contribute to the Web3 space and decentralized future 🔗
 
 📌 Projects
-Check out my repositories below to see the projects I’ve built and contributed to. Most of my projects are built from scratch or heavily customized, showcasing both my frontend and backend capabilities.
+
+Most of my projects are built from scratch or heavily customized to showcase both frontend creativity and backend logic.
+
+👉 Visit my Portfolio: abdullahi.dev
+
+🛠️ Skills at a Glance
+
+Frontend: HTML5, CSS3, JavaScript (ES6+), React.js, Next.js, TailwindCSS, Bootstrap
+
+Backend: Node.js, Express.js, PostgreSQL, MongoDB
+
+Web3: Smart Contracts, Solidity, Blockchain Integration, dApps
+
+Other Tools: Git/GitHub, Docker, REST APIs, OAuth, JWT, Figma, Three.js
 
 📫 Let’s Connect
-I’m open to collaboration, freelance opportunities, and remote positions.
-📧 Email: [abdullahisuleiman@gmail.com](mailto:abdullahisuleiman6683@gmail.com)  
-🐦 X (Twitter): [@ABDULLAHIS68744](https://x.com/ABDULLAHIS68744)
+
+📧 Email: abdullahisuleiman6683@gmail.com
+
+🐦 Twitter/X: @ABDULLAHIS68744
