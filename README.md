@@ -1,58 +1,69 @@
-👋 Hi, I’m Abdullahi
-I’m a Full-Stack & Web3 Developer who is passionate about building modern, scalable, and impactful digital solutions.
+<!-- Banner -->
+<p align="center">
+  <img src="https://i.ibb.co/zGxYJQq/coding-banner.gif" alt="coding banner" width="100%"/>
+</p>
 
-💡 Moto: “Code with purpose, build for the future.”
+<h1 align="center">👋 Hi, I’m Abdullahi</h1>
+<h3 align="center">🚀 Full-Stack & Web3 Developer | Building the Future with Code</h3>
 
-💻 What I Do
+---
 
-🌐 Frontend Development with React.js, TailwindCSS, Bootstrap, Framer Motion, Swiper.js & Three.js
+### 💡 Moto
+> *“Code with purpose, build for the future.”*
 
-🔙 Backend Development with Node.js, Express.js, PostgreSQL & MongoDB
+---
 
-🛠️ APIs & Authentication – RESTful APIs, JWT, OAuth
+### 🧑‍💻 About Me  
+- 🔭 I’m passionate about **Full-Stack Development** and **Web3 (Blockchain, Smart Contracts, Motoko, dApps)**  
+- 🌍 Open to **remote opportunities & freelance projects**  
+- 🎨 Love building **responsive, animated, and interactive UIs**  
+- 📖 Always learning new tools & technologies (Next.js, TypeScript, Advanced React)  
 
-⚡ Web3 Development – Smart Contracts, Blockchain integration, and dApps (Decentralized Applications)
+---
 
-🎨 UI/UX Enhancements with animations, responsive design & interactive experiences
+### ⚡ Tech Stack & Tools  
 
-🧠 Currently Learning
+#### 🌐 Frontend  
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,threejs" />
+</p>
 
-I’m continuously growing my skillset. Right now, I’m diving deeper into:
+#### 🔙 Backend & Database  
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb" />
+</p>
 
-Advanced React & Next.js
+#### 🔗 Web3 & Other  
+<p>
+  <img src="https://skillicons.dev/icons?i=solidity,ethereum,git,github,docker,figma" />
+  <img src="https://github.com/motoko-bootcamp.png" width="40" title="Motoko Language"/> Motoko
+</p>
 
-TypeScript
+---
 
-Blockchain Development & Smart Contracts
+### 🎮 Fun Section – A Little Game 👇
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">  
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 
-Cloud & Deployment (Vercel, Netlify, Docker, CI/CD)
+---
 
-🌍 Goals
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdullahi40&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahi40&layout=compact&theme=radical" height="150"/>
+</p>
 
-Work remotely as a Full-Stack/Web3 Developer 🌎
+---
 
-Build products that create real value & empower businesses 🚀
+### 🌍 Let’s Connect  
+📧 **Email:** [abdullahisuleiman6683@gmail.com](mailto:abdullahisuleiman6683@gmail.com)  
+🐦 **Twitter/X:** [@ABDULLAHIS68744](https://x.com/ABDULLAHIS68744)  
+💼 **Portfolio:** [abdullahi.dev](https://abdullahi.dev)  
 
-Contribute to the Web3 space and decentralized future 🔗
+---
 
-📌 Projects
-
-Most of my projects are built from scratch or heavily customized to showcase both frontend creativity and backend logic.
-
-👉 Visit my Portfolio:https://www.abdulahi.dev
-
-🛠️ Skills at a Glance
-
-Frontend: HTML5, CSS3, JavaScript (ES6+), React.js, Next.js, TailwindCSS, Bootstrap
-
-Backend: Node.js, Express.js, PostgreSQL, MongoDB
-
-Web3: Smart Contracts, Solidity, Blockchain Integration, dApps
-
-Other Tools: Git/GitHub, Docker, REST APIs, OAuth, JWT, Figma, Three.js
-
-📫 Let’s Connect
-
-📧 Email: abdullahisuleiman6683@gmail.com
-
-🐦 Twitter/X: @ABDULLAHIS68744
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Web3+Enthusiast;Always+Learning;Building+Awesome+Projects+🚀" alt="Typing Animation" />
+</p>
