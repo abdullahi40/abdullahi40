@@ -39,7 +39,7 @@ Contribute to the Web3 space and decentralized future 🔗
 
 Most of my projects are built from scratch or heavily customized to showcase both frontend creativity and backend logic.
 
-👉 Visit my Portfolio: abdullahi.dev
+👉 Visit my Portfolio:https://www.abdulahi.dev
 
 🛠️ Skills at a Glance
 
